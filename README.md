@@ -24,7 +24,7 @@ Extracted relevant data from the provided dataset and optimised it for the analy
 
 
 ### 3. Deepwalk and Node2vec Model Training
-- **Libraries Used:** pandas, numpy, pecanpy, gensim
+- **Libraries Used:** Pecanpy, gensim
 - **Main Steps:**
   - Performed graph random walks to generate sequences for embeddings.
   - Trained the Deepwalk and Node2Vec models using the gensim library.
