@@ -20,6 +20,8 @@ Researched the requirements for creating a recommendation system that uses graph
 
 ### 2. Data Preparation
 Extracted relevant data from the provided dataset and optimised it for the analysis.
+- **Libraries Used:** pandas, numpy, DuckDB
+
 
 ### 3. Deepwalk and Node2vec Model Training
 - **Libraries Used:** pandas, numpy, pecanpy, gensim
@@ -28,14 +30,14 @@ Extracted relevant data from the provided dataset and optimised it for the analy
   - Trained the Deepwalk and Node2Vec models using the gensim library.
 
 ### 4. Result Analysis and Visualization
-- **Libraries Used:** pandas, numpy, umap, plotly
+- **Libraries Used:** UMAP, plotly
 - **Main Steps:**
   - Categorized products into hierarchical levels for detailed analysis.
   - Applied UMAP for dimensionality reduction of embeddings to visualize data clusters.
   - Used Plotly for interactive 2D and 3D visualization of product clusters.
 
 ### 5. Embedding Vector Search with FAISS
-- **Libraries Used:** FAISS, pandas, numpy
+- **Libraries Used:** FAISS
 - **Main Steps:**
   - Initialized the FAISS library for efficient similarity search.
   - Used FAISS to find similar products based on embedding proximity.
