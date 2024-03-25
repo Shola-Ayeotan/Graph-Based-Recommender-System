@@ -1,0 +1,5 @@
+duckdb==0.3.0
+pecanpy==2.0.0
+umap-learn==0.5.1
+gensim==4.1.2
+plotly==4.14.3
