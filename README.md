@@ -54,17 +54,3 @@ Extracted relevant data from the provided dataset and optimised it for the analy
   6. Embedding Vector Search and Recommendation with FAISS
 - **Scripts:** Python scripts are available for reproducibility and automation.
 - **requirements.txt:** Lists all necessary libraries with versions. Install these requirements to ensure compatibility.
-
-## Installation
-To set up the environment for this project, install the dependencies listed in `requirements.txt` using the following command:
-```sh
-pip install -r requirements.txt
-```
-
-## Usage
-Navigate through the notebooks in the provided order to understand the workflow. Each notebook is self-contained with comments and instructions for ease of use.
-
-## Acknowledgments
-- The pecanpy and gensim libraries for providing efficient implementations of node embeddings.
-- The FAISS library by Facebook AI for enabling high-performance similarity search.
-- The UMAP library for intuitive dimensionality reduction and data visualization techniques.
