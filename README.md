@@ -1,11 +1,11 @@
 
-# Graph-Based Recommendation System for an eCommerce Platform
+# Graph-Based Recommendation System for an eCommerce website
 
 ## Overview
 This project developed a Graph-based recommendation system for an eCommerce platform, leveraging user purchase and search history to recommend products. By transforming user interaction data into graph embeddings and using ANN-FAISS model, the system aimed to enhance product discoverability and user experience.
 
 ## Data Overview
-The dataset comprised user interactions on the eCommerce website, spanning 9 attributes. This was ransformed into a graph format for analysis and modeling.
+The dataset comprised user interactions on the eCommerce website, spanning 9 attributes. This was transformed into a graph format for analysis and modelling.
 
 ## Technology Stack
 - **Programming Language:** Python
